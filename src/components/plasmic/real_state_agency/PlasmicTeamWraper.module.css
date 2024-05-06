@@ -1,0 +1,117 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  position: relative;
+  min-width: 0;
+  padding: 0px;
+}
+.freeBox {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 0px;
+}
+.link__fmFlt {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 0px;
+}
+.img___4Mzt {
+  width: 100%;
+  height: 338px;
+  max-width: 100%;
+  min-height: auto;
+  max-height: none;
+  object-fit: cover;
+  min-width: 0;
+  flex-shrink: 0;
+}
+.img___4Mzt > picture > img {
+  object-fit: cover;
+}
+.link___6N9Qg {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  max-width: none;
+  background: #ffffffe0;
+  left: 0px;
+  top: auto;
+  transition-property: all;
+  transition-duration: 0.7s;
+  transition-timing-function: linear;
+  margin-top: -94px;
+  bottom: 0px;
+  min-width: 0;
+  -webkit-transition-property: all;
+  -webkit-transition-timing-function: linear;
+  -webkit-transition-duration: 0.7s;
+  padding: 20px 30px;
+}
+.link___6N9Qg > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.link___6N9Qg > :global(.__wab_flex-container) > *,
+.link___6N9Qg > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.link___6N9Qg > :global(.__wab_flex-container) > picture > img,
+.link___6N9Qg
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.h4__wm08Q {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: none;
+  padding-top: 0px;
+  margin-bottom: 2px;
+  padding-bottom: 0px;
+  text-align: center;
+  min-width: 0;
+}
+.freeBox__tPpdi {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 0px;
+}
+.text___85PmH {
+  height: auto;
+  align-self: center;
+  text-align: center;
+  color: #212121;
+}

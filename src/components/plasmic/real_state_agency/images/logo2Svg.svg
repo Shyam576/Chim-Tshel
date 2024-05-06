@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 36">
+  <g data-name="Layer 2">
+    <g data-name="Layer 1">
+      <path fill="#359fb5" d="M26 14h18v10H26zM6 14h18v10H6z"/>
+      <path fill="#355cb5" d="M26 26h18v10H26zM6 26h18v10H6z"/>
+      <path fill="#35c9b5" d="M24 0v12H0L24 0zm2 0v12h24L26 0z"/>
+    </g>
+  </g>
+</svg>
